@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Realizar una prueba funcional automatizada (Prueba E2E) de un flujo de compra en la página opencart" skipped="0" tests="1" time="36.36" timestamp="2023-07-17 05:55:00"><testcase name="Comprar producto en opencart"><error message="Cannot invoke &quot;Object.getClass()&quot; because &quot;object&quot; is null" type="java.lang.NullPointerException">Cannot invoke "Object.getClass()" because "object" is null</error><system-err>Cannot invoke "Object.getClass()" because "object" is null&#13;
+com.e2e.tastks.DoFormStep2.withoptions(DoFormStep2.java:47)&#13;
+com.e2e.glue.BuyOpenCartGlue.heLlenaElCheckoutComoInvitadoGuest(BuyOpenCartGlue.java:69)&#13;
+✽.he llena el Checkout como invitado Guest(file:///C:/Users/Christian%20Palacios/Documents/E2E/workspace/eval_e2e_serenity/src/test/resources/features/BuyOpenCartv1.feature:10)&#13;
+</system-err></testcase></testsuite>
